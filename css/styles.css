@@ -86,7 +86,7 @@ body {
 .site-nav .item + .item {
   margin-left: 50px;
 }
-.nav-active-link {
+.site-nav .nav-active-link {
   color: #2196f3;
 }
 .contact-list {
