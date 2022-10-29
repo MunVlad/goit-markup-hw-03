@@ -308,9 +308,9 @@ img {
 .team-list > .team-description:not(:last-child) {
   margin-right: 30px;
 }
-.team-card{
-padding-bottom: 30px;
-padding-top: 30px;
+.team-card {
+  padding-bottom: 30px;
+  padding-top: 30px;
 }
 /* Друга сторінка сайту */
 
@@ -352,7 +352,7 @@ padding-top: 30px;
   margin-bottom: 30px;
   width: 370px;
   background: var(--main-background-color);
-  }
+}
 .portfolio-item:nth-child(3n + 3) {
   margin-right: 0px;
 }
