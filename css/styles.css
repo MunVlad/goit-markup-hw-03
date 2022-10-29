@@ -345,7 +345,7 @@ body {
   margin-bottom: 30px;
   width: 370px;
   background: var(--main-background-color);
-  border: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
 }
 .portfolio-item:nth-child(3n + 3) {
   margin-right: 0px;
